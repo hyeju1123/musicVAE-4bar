@@ -86,3 +86,11 @@
 3. 원핫인코딩 처리 후 predict 함수의 인자로 입력
 
 ![alt text](./score%20(2).png "Title")
+
+### 참고
+https://github.com/magenta/magenta/tree/main/magenta/models/music_vae
+https://arxiv.org/pdf/1803.05428.pdf
+https://github.com/sjhan91/MusicVAE
+https://github.com/yizhouzhao/MusicVAE
+https://medium.com/@musicvaeubcse/musicvae-understanding-of-the-googles-work-for-interpolating-two-music-sequences-621dcbfa307c
+https://www.slideshare.net/NaverEngineering/ss-96581209
